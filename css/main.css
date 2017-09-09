@@ -1,0 +1,55 @@
+#backgroundBeach{
+	background: url(../img/BG.JPG)no-repeat fixed center;
+	background-size: cover;
+	height:100%;
+}
+#backgroundBeach .container p{
+	font-family: Niagara Solid;
+	font-size: 100px;
+	font-weight: bold;
+	color:white;
+	text-align: right;
+}
+#backgroundBeach .container h1{
+	font-family: Niagara Solid;
+	font-size: 249px;
+	font-weight: bold;
+	color:pink;
+	text-align: left;
+
+}
+#backgroundBeach .container h2{
+	font-family: Niagara Solid;
+	font-size: 150px;
+	font-weight: bold;
+	color:pink;
+	text-align: center;
+}
+#backgroundBeach .content h2{
+	font-family: Century Gothic;
+	font-size: 20px;
+	color:black;
+	text-align: left;
+	background-color: white;
+	padding: 80px;
+	width:70%;
+}
+
+a{
+	color:white;
+}
+a:hover{
+	color:pink;
+	text-decoration: none;
+}
+
+.img{
+	border:8px solid pink;
+	opacity: 1;
+}
+
+footer{
+	font-family: Century Gothic;
+	color:white;
+	text-align: center;
+}
